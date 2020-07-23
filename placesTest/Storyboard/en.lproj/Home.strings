@@ -1,0 +1,24 @@
+
+/* Class = "UINavigationItem"; title = "HOME"; ObjectID = "8B1-8U-NLE"; */
+"8B1-8U-NLE.title" = "HOME";
+
+/* Class = "UILabel"; text = "SOBRE"; ObjectID = "SWd-OS-jKY"; */
+"SWd-OS-jKY.text" = "SOBRE";
+
+/* Class = "UILabel"; text = "Se você curte um pão fresquinho, ou uma sobremesa caprichada, você precisa incluir uma visitinha a Padaria Pelicano no seu roteiro por BH. A fila é gigantesca, mas os quitutes estão sem dúvida entre os melhores da cidade. "; ObjectID = "Yr1-ed-P4F"; */
+"Yr1-ed-P4F.text" = "Se você curte um pão fresquinho, ou uma sobremesa caprichada, você precisa incluir uma visitinha a Padaria Pelicano no seu roteiro por BH. A fila é gigantesca, mas os quitutes estão sem dúvida entre os melhores da cidade. ";
+
+/* Class = "UINavigationItem"; title = "PERFIL"; ObjectID = "Zzm-Ag-H1V"; */
+"Zzm-Ag-H1V.title" = "PERFIL";
+
+/* Class = "UINavigationItem"; title = "MAPA"; ObjectID = "a8k-S7-iU7"; */
+"a8k-S7-iU7.title" = "MAPA";
+
+/* Class = "UILabel"; text = "+55 31 98892 5338"; ObjectID = "l08-US-82I"; */
+"l08-US-82I.text" = "+55 31 98892 5338";
+
+/* Class = "UILabel"; text = "Rua do ouro, 297 - Serra \nBelo Horizonte - MG"; ObjectID = "rGm-S0-QFE"; */
+"rGm-S0-QFE.text" = "Rua do ouro, 297 - Serra \nBelo Horizonte - MG";
+
+/* Class = "UILabel"; text = "Nome"; ObjectID = "xrs-bi-3fl"; */
+"xrs-bi-3fl.text" = "Nome";
